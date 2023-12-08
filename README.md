@@ -1,6 +1,8 @@
 # E2E-IIMT
 The code for EMNLP 2023 paper "In-Image Neural Machine Translation with Segmented Pixel Sequence-to-Sequence Model".
 
+https://aclanthology.org/2023.findings-emnlp.1004/
+
 
 
 #### ./example
